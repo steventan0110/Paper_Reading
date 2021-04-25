@@ -9,4 +9,4 @@
 |[Evaluating Robustness to Input Perturbations for Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.755.pdf)|Paper|ACL|Evaluate model robustness and consistence against simple blackbox attack (insert/delete/replacement by char).
 |[Training on Synthetic Noise Improves Robustness to Natural Noise in Machine Translation](https://www.aclweb.org/anthology/D19-5506.pdf)|Paper|Workshop on Noisy User-generated Text| Test different noise's effect on BLEU score difference and robustness of model. Robustness is measured by BLEU difference of model trained with/without noises tested on noisy data.
 
-[Back to index](../README.md)
+[Back to index](../../README.md)
