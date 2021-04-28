@@ -5,7 +5,7 @@ My research interests include **Machine Translation**, **Image Processing**, **M
 
 <br/>
 
-# My Reading for Papers in ML, NLP, CV, and More. (Currently only [MT](./NLP/MT) section is updated)
+# My Reading for Papers in ML, NLP, CV, and More. 
 
 ## Machine Learning (ML)
 
@@ -22,17 +22,15 @@ My research interests include **Machine Translation**, **Image Processing**, **M
  - [**Machine Translation**](./NLP/MT)
     - [Adversarial Attack for NMT](./NLP/MT/adversarial.md)
     - [Quality Estimation for NMT](./NLP/MT/QE.md)
+    - [Structural Prediction for NMT](./NLP/MT/SP.md)
  - [Text Generation](./NLP/NLP_generation.md)
  - [Text Summarization](./NLP/NLP_summarization.md)
  - [Text Classification](./NLP/NLP_classification.md)
  - [**Low-Resource and Multilingual NLP**](./NLP/NLP_multilingual.md)
 
 ## Computer Vision (CV)
- - [Image Classification](./CV/CV_classification.md)
- - [Segmentation](./CV/CV_segmentation.md)
+ - [Image Classification and Segmentation](./CV/segmentation.md)
  - [Visual Question Answering](./CV/CV_visual_QA.md)
- - [Image Captioning](./CV/captioning.md)
-
-
+ - [**Image Captioning**](./CV/captioning.md)
 
 
