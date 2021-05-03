@@ -5,5 +5,6 @@
 |[Fast-R-CNN](https://arxiv.org/abs/1504.08083)|Paper|ICCV|Using deep learning for selective search in R-CNN. feed input to CNN and generate conv feature map. Then RoI are identified and pooled. The RoI feature is used for both prediction task and regressor task (for bbox adjustment)|
 |[Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf)|Paper|IEEE|Eliminate selective search step with object detection algorithm. A region proposal network is introduced and used to propose RoI for pooling. Can be used for real-time detection.|
 |[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)|Ppaer|CVPR|SxS grids each with m by m boxes. The network predict a class probability along with offset value to adjust bbox.|
+|[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)|Paper|CVPR|ViT architecture, separate image into patches with positional information, and use transformer as usual.
 
 [Back to index](../README.md)

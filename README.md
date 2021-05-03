@@ -23,6 +23,7 @@ My research interests include **Machine Translation**, **Image Processing**, **M
     - [Adversarial Attack for NMT](./NLP/MT/adversarial.md)
     - [Quality Estimation for NMT](./NLP/MT/QE.md)
     - [Structural Prediction for NMT](./NLP/MT/SP.md)
+    - [Denoise and Data Filtering](./NLP/MT/Denoise.md)
  - [Text Generation](./NLP/NLP_generation.md)
  - [Text Summarization](./NLP/NLP_summarization.md)
  - [Text Classification](./NLP/NLP_classification.md)
