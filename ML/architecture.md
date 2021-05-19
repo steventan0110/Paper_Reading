@@ -2,7 +2,8 @@
 |Title|Type|Conference|Remarks
 |--|--|--|--|
 |[Attention Is All You Need](https://arxiv.org/abs/1706.03762)|Paper|NIPS|Transformer architecture uses attention mechanism to replace the auto-regressive way to encode sentence by RNN-based architecture. Allow for parallelization for training, inference is still autoregressive. Introduce positional embedding and layerwise normalization as well. Note that original paper's layer norm is different from many up-to-date implementation. |
-|[SPECTRAL NORMALIZATION FOR GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1802.05957.pdf)|Paper|ICML|on reading plan
+|[SPECTRAL NORMALIZATION FOR GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1802.05957.pdf)|Paper|ICML|on reading plan|
+|[Convolutional Sequence to Sequence Learning](https://arxiv.org/pdf/1705.03122.pdf)|Paper|ICML|Introduce 1-D convolution to replace recurrent structure and apply MLP  attention to attend encoder-decoder information. Achieved SOTA for en-fr translation.|
 
 
 [Back to index](../README.md)
