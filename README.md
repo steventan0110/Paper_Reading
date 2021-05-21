@@ -18,7 +18,7 @@ My research interests include **Machine Translation**, **Image Processing**, **M
 
 ## Natural Language Processing (NLP)
  - [Language Modelling](./NLP/PLM.md)
- - [Word, Sentence, Document Embedding](./NLP/NLP_embedding.md)
+ - [Word, Sentence, Document Embedding](./NLP/embedding.md)
  - [Debiasing in NLP](./NLP/bias.md)
  - [**Machine Translation**](./NLP/MT)
     - [Adversarial Attack for NMT](./NLP/MT/adversarial.md)
