@@ -11,8 +11,8 @@ My research interests include **Machine Translation**, **Image Processing**, **M
 
  - [Optimization](./ML/ML_optimization.md)
  - [**Architecture (RNN, CNN, Transformer and More)**](./ML/architecture.md)
- - [Reinforcement Learning](./ML/ML_reinforcement.md)
- - [Generative Adversarial Network (GAN)](./ML/ML_GAN.md)
+ - [Reinforcement Learning](./ML/reinforcement.md)
+ - [Generative Adversarial Network (GAN)](./ML/GAN.md)
  - [Variational Autoencoders (VAE)](./ML/ML_VAE.md)
 
 
@@ -25,6 +25,7 @@ My research interests include **Machine Translation**, **Image Processing**, **M
     - [Quality Estimation for NMT](./NLP/MT/QE.md)
     - [Structural Prediction for NMT](./NLP/MT/SP.md)
     - [Denoise and Data Filtering](./NLP/MT/Denoise.md)
+ - [Text segmentation and labeling](./NLP/segmentation.md)
  - [Text Generation](./NLP/NLP_generation.md)
  - [Text Summarization](./NLP/NLP_summarization.md)
  - [Text Classification](./NLP/NLP_classification.md)

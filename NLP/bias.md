@@ -13,5 +13,7 @@
 |[Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://arxiv.org/pdf/1707.09457.pdf)|Paper|EMNLP|propose a corpus-level constraint method (named RBA) to debias structural prediction in NLP task, inspired from Lagrangian relaxation|
 |[Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer](https://arxiv.org/pdf/2005.00699.pdf)|Paper|Arxiv| Propose intrinsic bias measurement for multilingual gender tokens and test on embedding alignment's effect on it. Also build MLBs dataset to measure extrinsic bias
 |[Examining Gender Bias in Languages with Grammatical Gender](https://arxiv.org/pdf/1909.02224.pdf)|Paper|EMNLP|To be read|analyze gender related word's distance to semantic gender direction. Use this as the objective to mitigate gender bias. Expand the test into bilingual setting|
-|[Language (Technology) is Power: A Critical Survey of "Bias" in NLP](https://arxiv.org/pdf/2005.14050.pdf)| Survey of 146 bias related paper, point out the problems with current study and propose 3 guidelines to answer for clarity.|
+|[Language (Technology) is Power: A Critical Survey of "Bias" in NLP](https://arxiv.org/pdf/2005.14050.pdf)|Paper|Arxiv| Survey of 146 bias related paper, point out the problems with current study and propose 3 guidelines to answer for clarity.|
+|[Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings](https://www.aclweb.org/anthology/2020.acl-main.431.pdf)|Paper|ACL|Two stage conversion from PLM embedding to static embedding shows SOTA spearman score across test datasets. Evaluating bias criterion on different layers of BERT reveals inconsistent results.|
+
 [Back to index](../README.md)
