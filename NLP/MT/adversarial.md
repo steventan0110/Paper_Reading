@@ -8,5 +8,5 @@
 |[On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models](https://arxiv.org/abs/1903.06620)|Paper|NAACL-HLT|Propose an evaluation metric to measure the effect of adversarial attacks, enforce the semantic similarity by different constraints like KNN, CharSwap and compared the training results with and without those constraints.
 |[Evaluating Robustness to Input Perturbations for Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.755.pdf)|Paper|ACL|Evaluate model robustness and consistence against simple blackbox attack (insert/delete/replacement by char).
 |[Training on Synthetic Noise Improves Robustness to Natural Noise in Machine Translation](https://www.aclweb.org/anthology/D19-5506.pdf)|Paper|Workshop on Noisy User-generated Text| Test different noise's effect on BLEU score difference and robustness of model. Robustness is measured by BLEU difference of model trained with/without noises tested on noisy data.
-
+|[Rethinking Perturbations in Encoder-Decoders for Fast Training](https://arxiv.org/pdf/2104.01853.pdf)|Paper|NAACL|Compared simple and fast word  dropout or replacement method with adversarial method and shows that simple methods could actually run faster and sometimes achieve better  robustness 
 [Back to index](../../README.md)
