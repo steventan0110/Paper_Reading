@@ -15,7 +15,6 @@ My research interests include **Machine Translation**, **Image Processing**, **M
  - [Generative Adversarial Network (GAN)](./ML/GAN.md)
  - [Variational Autoencoders (VAE)](./ML/ML_VAE.md)
 
-
 ## Natural Language Processing (NLP)
  - [Language Modelling](./NLP/PLM.md)
  - [Word, Sentence, Document Embedding](./NLP/embedding.md)

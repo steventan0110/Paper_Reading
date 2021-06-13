@@ -7,4 +7,5 @@
 |[BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://www.aclweb.org/anthology/W19-2304.pdf)|Paper|ACL|Interpretation of BERT as MRF Language Model and propose pseudo log-likelihood learning to avoid computing normalization constant Z(theta)|
 |[XLNet](https://arxiv.org/pdf/1906.08237.pdf)|x|x|x|
 |[ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/pdf/1905.07129.pdf)|x|x|x|
+|[ERNIE-Gram: Pre-Training with Explicitly N-Gram Masked Language Modeling for Natural Language Understanding](https://arxiv.org/pdf/2010.12148.pdf)|Paper|NAACL|N-gram masked LM instead of continuously masking words. Proposed Comprehensive N-gram prediction with auxilary encoder for plausible n-gram sampling.
 [Back to index](../README.md)
