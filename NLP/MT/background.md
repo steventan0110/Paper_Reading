@@ -8,7 +8,8 @@
 |[Effective Approaches to Attention-based Neural Machine Translation](https://www.aclweb.org/anthology/D15-1166.pdf)|Paper|EMNLP|Analysis of different attention mechanism's effect on RNN-based network. Discussed the effect of global and local attention (use a window to contrain the source side attention range) in RNN network.
 |[Dual Learning for Machine Translation](https://arxiv.org/abs/1611.00179)|Paper|NIPS|Propose a dual learning system (can be extended to close loop) for NMT where a RL's reward is introduced for each sampled sentence. The reward is computed using log-prob of the opposite direction model's translation.|
 |[Bridging the Gap between Training and Inference for Neural Machine Translation](https://arxiv.org/pdf/1906.02448.pdf)|Paper|ACL|sampling context words from predicted sentences to bridge the exposure bias (training v.s. inference) in NMT. Oracle words are sampled with sentence-level optimum with BLEU and force decoding.|
-|[Modeling Coverage for Neural Machine Translation](https://arxiv.org/pdf/1601.04811.pdf)|Paper|ACL|Keep track of attention history to ask model pay more attention to un-translated words, to address the over/under-translation problem. Proposed both linguistic coverage model and NN-based coverage model.
+|[Modeling Coverage for Neural Machine Translation](https://arxiv.org/pdf/1601.04811.pdf)|Paper|ACL|Keep track of attention history to ask model pay more attention to un-translated words, to address the over/under-translation problem. Proposed both linguistic coverage model and NN-based coverage model.|
+|[Domain Adaptation and Multi-Domain Adaptation for Neural Machine Translation: A Survey](https://arxiv.org/pdf/2104.06951.pdf)|Paper|ArXiv|Long survey of domain adaptation in NMT, in various aspects.|
 
 
 

@@ -15,5 +15,7 @@
 |[Examining Gender Bias in Languages with Grammatical Gender](https://arxiv.org/pdf/1909.02224.pdf)|Paper|EMNLP|To be read|analyze gender related word's distance to semantic gender direction. Use this as the objective to mitigate gender bias. Expand the test into bilingual setting|
 |[Language (Technology) is Power: A Critical Survey of "Bias" in NLP](https://arxiv.org/pdf/2005.14050.pdf)|Paper|Arxiv| Survey of 146 bias related paper, point out the problems with current study and propose 3 guidelines to answer for clarity.|
 |[Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings](https://www.aclweb.org/anthology/2020.acl-main.431.pdf)|Paper|ACL|Two stage conversion from PLM embedding to static embedding shows SOTA spearman score across test datasets. Evaluating bias criterion on different layers of BERT reveals inconsistent results.|
+|[An Overview of Fairness in Data – Illuminating the Bias in Data Pipeline](https://aclanthology.org/2021.ltedi-1.5.pdf)|Paper|Workshop on Language Technology for Equality, Diversity and Inclusion|Overview of bais in corpus, system (separate into `Language Resources, Domain, Training process, Data design`) and give recommendation to cope with bias.|
+|[Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP](https://arxiv.org/pdf/2103.00453.pdf)|Paper|ArXiv|Propse self-diagnoise and self-debiasing algorithm for PLM to detect its bias without explicitly using keywords (but still use a template set for it)|
 
 [Back to index](../README.md)
