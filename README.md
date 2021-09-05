@@ -25,6 +25,7 @@ My research interests include **Machine Translation**, **Image Processing**, **M
     - [Quality Estimation for NMT](./NLP/MT/QE.md)
     - [Structural Prediction for NMT](./NLP/MT/SP.md)
     - [Denoise and Data Filtering](./NLP/MT/Denoise.md)
+ - [Qestion Answering](./NLP/QA.md)
  - [Text segmentation and labeling](./NLP/segmentation.md)
  - [Text Generation](./NLP/NLP_generation.md)
  - [Text Summarization](./NLP/NLP_summarization.md)
