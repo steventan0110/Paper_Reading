@@ -18,5 +18,7 @@
 |[An Overview of Fairness in Data – Illuminating the Bias in Data Pipeline](https://aclanthology.org/2021.ltedi-1.5.pdf)|Paper|Workshop on Language Technology for Equality, Diversity and Inclusion|Overview of bais in corpus, system (separate into `Language Resources, Domain, Training process, Data design`) and give recommendation to cope with bias.|
 |[Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP](https://arxiv.org/pdf/2103.00453.pdf)|Paper|ArXiv|Propse self-diagnoise and self-debiasing algorithm for PLM to detect its bias without explicitly using keywords (but still use a template set for it)|
 |[Social Bias in Elicited Natural Language Inferences](https://aclanthology.org/W17-1609.pdf)|Paper|ACL|Evaluate elicited (inference) bias in SNLI dataset with PMI statistics and likelihood ratio statistics.|
+|[Evaluating Gender Bias in Machine Translation](https://arxiv.org/pdf/1906.00591.pdf)|Paper|ACL|Proposed WinoMT dataset to evaluate gender bias in MT based on morphological analysis.|
+
 
 [Back to index](../README.md)
