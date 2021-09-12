@@ -11,6 +11,7 @@
 |[Modeling Coverage for Neural Machine Translation](https://arxiv.org/pdf/1601.04811.pdf)|Paper|ACL|Keep track of attention history to ask model pay more attention to un-translated words, to address the over/under-translation problem. Proposed both linguistic coverage model and NN-based coverage model.|
 |[Domain Adaptation and Multi-Domain Adaptation for Neural Machine Translation: A Survey](https://arxiv.org/pdf/2104.06951.pdf)|Paper|ArXiv|Long survey of domain adaptation in NMT, in various aspects.|
 |[Fast and Accurate Neural Machine Translation with Translation Memory](https://aclanthology.org/2021.acl-long.246.pdf)|Paper|ACL|Proposed three methods to encode TM (from similarity by Lucene) into vectors and encode them in Example Layer which modifies Transformer decoder to take into account the TM vectors|
+|[Contrastive Learning for Many-to-many Multilingual Neural Machine Translation](https://arxiv.org/pdf/2105.09501.pdf)|Paper|Arxiv|Proposed mRASP2 training method for many-to-many translation. Where RAS is Random Aligned Substitution technique based on code-switching.|
 
 
 
