@@ -31,6 +31,7 @@ My research interests include **Machine Translation**, **Image Processing**, **M
  - [Text Summarization](./NLP/NLP_summarization.md)
  - [Text Classification](./NLP/NLP_classification.md)
  - [**Low-Resource and Multilingual NLP**](./NLP/NLP_multilingual.md)
+ - [Neuro-Symbolic Hybrids](./NLP/neuro-symbolic.md)
 
 ## Computer Vision (CV)
  - [Image Classification and Segmentation](./CV/segmentation.md)
