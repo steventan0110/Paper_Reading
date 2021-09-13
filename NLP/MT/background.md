@@ -12,6 +12,9 @@
 |[Domain Adaptation and Multi-Domain Adaptation for Neural Machine Translation: A Survey](https://arxiv.org/pdf/2104.06951.pdf)|Paper|ArXiv|Long survey of domain adaptation in NMT, in various aspects.|
 |[Fast and Accurate Neural Machine Translation with Translation Memory](https://aclanthology.org/2021.acl-long.246.pdf)|Paper|ACL|Proposed three methods to encode TM (from similarity by Lucene) into vectors and encode them in Example Layer which modifies Transformer decoder to take into account the TM vectors|
 |[Contrastive Learning for Many-to-many Multilingual Neural Machine Translation](https://arxiv.org/pdf/2105.09501.pdf)|Paper|Arxiv|Proposed mRASP2 training method for many-to-many translation. Where RAS is Random Aligned Substitution technique based on code-switching.|
+|[Fully Non-autoregressive Neural Machine Translation: Tricks of the Trade](https://arxiv.org/pdf/2012.15833.pdf)|Paper|Arxiv|Proposed fully NAT model with knowledge distillation (from autoregressive transformer), latent variable (spherical gaussian) with ELBO loss, latent alighnment loss with CTC loss, and Glancing targets sampled from a stochastic function.|
+
+
 
 
 
