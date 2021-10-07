@@ -11,8 +11,14 @@
 |[Modeling Coverage for Neural Machine Translation](https://arxiv.org/pdf/1601.04811.pdf)|Paper|ACL|Keep track of attention history to ask model pay more attention to un-translated words, to address the over/under-translation problem. Proposed both linguistic coverage model and NN-based coverage model.|
 |[Domain Adaptation and Multi-Domain Adaptation for Neural Machine Translation: A Survey](https://arxiv.org/pdf/2104.06951.pdf)|Paper|ArXiv|Long survey of domain adaptation in NMT, in various aspects.|
 |[Fast and Accurate Neural Machine Translation with Translation Memory](https://aclanthology.org/2021.acl-long.246.pdf)|Paper|ACL|Proposed three methods to encode TM (from similarity by Lucene) into vectors and encode them in Example Layer which modifies Transformer decoder to take into account the TM vectors|
+|[Guiding neural machine translation with retrieved translation pieces](https://aclanthology.org/N18-1120/)|Paper|NAACL|Using word alignment and similarity score to up-weight similar translation result in test time.|
+|[Search Engine Guided Neural Machine Translation](https://arxiv.org/pdf/1705.07267.pdf)|Paper|AAAI|Incorporate TM in training time so that the model has access to potentially good pairs found by edit distance (fuzzy match score)|
+|[Graph based Translation Memory for Neural Machine Translation](https://ai.tencent.com/ailab/nlp/en/papers/aaai2019_graph_translation.pdf)|Paper|AAAI|Encode translation memory as graphical model and use graphical attention to add it into transformer.|
 |[Contrastive Learning for Many-to-many Multilingual Neural Machine Translation](https://arxiv.org/pdf/2105.09501.pdf)|Paper|Arxiv|Proposed mRASP2 training method for many-to-many translation. Where RAS is Random Aligned Substitution technique based on code-switching.|
 |[Fully Non-autoregressive Neural Machine Translation: Tricks of the Trade](https://arxiv.org/pdf/2012.15833.pdf)|Paper|Arxiv|Proposed fully NAT model with knowledge distillation (from autoregressive transformer), latent variable (spherical gaussian) with ELBO loss, latent alighnment loss with CTC loss, and Glancing targets sampled from a stochastic function.|
+|[Levenshtein Transformer](https://proceedings.neurips.cc/paper/2019/file/675f9820626f5bc0afb47b57890b466e-Paper.pdf)|Paper|NIPS|NAT model based on transformer and insertion/deletion opertaion guided by MDP.|
+|[Lexically Constrained Neural Machine Translation with Levenshtein Transformer](https://aclanthology.org/2020.acl-main.325.pdf)|Paper|ACL|Experiments based on Levenshtein transformer with constraints added in decoding phase.|
+
 
 
 
