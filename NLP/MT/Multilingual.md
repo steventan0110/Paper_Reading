@@ -13,6 +13,7 @@
 |[Findings of the WMT 2019 Shared Task on Parallel Corpus Filtering for Low-Resource Conditions](https://aclanthology.org/W19-5404.pdf)|Paper|WMT|Summary paper for parallel corpus filtering approach|
 |[Margin-based Parallel Corpus Mining with Multilingual Sentence Embeddings](https://arxiv.org/pdf/1811.01136.pdf)|Paper|ACL|proposed margin based score for bitext mining|
 |[Cross-lingual Retrieval for Iterative Self-Supervised Training](https://arxiv.org/pdf/2006.09526.pdf)|Paper|NIPS|proposed CRISS approach to iteratively mine and train mBART. Mining is based on margin-based scoring and sentence representation is achieved with mBART.|
+|[Unsupervised Bitext Mining and Translation via Self-Trained Contextual Embeddings](https://arxiv.org/pdf/2010.07761.pdf)|Paper|TACL|iteratively use mBERT to provide contextual embedding and classify pseudo sentence-pairs as positive (parallel) or negative. Then use the trained classifier to mine bitext.|
 
 
 
