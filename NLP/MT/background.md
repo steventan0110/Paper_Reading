@@ -18,6 +18,7 @@
 |[Fully Non-autoregressive Neural Machine Translation: Tricks of the Trade](https://arxiv.org/pdf/2012.15833.pdf)|Paper|Arxiv|Proposed fully NAT model with knowledge distillation (from autoregressive transformer), latent variable (spherical gaussian) with ELBO loss, latent alighnment loss with CTC loss, and Glancing targets sampled from a stochastic function.|
 |[Levenshtein Transformer](https://proceedings.neurips.cc/paper/2019/file/675f9820626f5bc0afb47b57890b466e-Paper.pdf)|Paper|NIPS|NAT model based on transformer and insertion/deletion opertaion guided by MDP.|
 |[Lexically Constrained Neural Machine Translation with Levenshtein Transformer](https://aclanthology.org/2020.acl-main.325.pdf)|Paper|ACL|Experiments based on Levenshtein transformer with constraints added in decoding phase.|
+|[Guiding Teacher Forcing with Seer Forcing for Neural Machine Translation](https://aclanthology.org/2021.acl-long.223.pdf)|Paper|ACL|Propose seer decoder to distill future information for decoder|
 
 
 
