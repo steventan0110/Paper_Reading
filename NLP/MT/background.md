@@ -18,6 +18,7 @@
 |[Fully Non-autoregressive Neural Machine Translation: Tricks of the Trade](https://arxiv.org/pdf/2012.15833.pdf)|Paper|Arxiv|Proposed fully NAT model with knowledge distillation (from autoregressive transformer), latent variable (spherical gaussian) with ELBO loss, latent alighnment loss with CTC loss, and Glancing targets sampled from a stochastic function.|
 |[Levenshtein Transformer](https://proceedings.neurips.cc/paper/2019/file/675f9820626f5bc0afb47b57890b466e-Paper.pdf)|Paper|NIPS|NAT model based on transformer and insertion/deletion opertaion guided by MDP.|
 |[Lexically Constrained Neural Machine Translation with Levenshtein Transformer](https://aclanthology.org/2020.acl-main.325.pdf)|Paper|ACL|Experiments based on Levenshtein transformer with constraints added in decoding phase.|
+|[EDITOR: an Edit-Based Transformer with Repositioning for Neural Machine Translation with Soft Lexical Constraints](https://arxiv.org/pdf/2011.06868.pdf)|Paper|TACL|Added a reposition policy as additional action based on LevT, with experiments on soft and hard constraints in decoding time. |
 
 
 
