@@ -7,7 +7,16 @@
 |[Massively Multilingual Neural Machine Translation](https://arxiv.org/pdf/1903.00089.pdf)|Paper|NAACL|Experimented on 103 languages and gained improvement on low resource translation with massive multilingual model.|
 |[Universal Neural Machine Translation for Extremely Low Resource Languages](https://aclanthology.org/N18-1032.pdf)|Paper|ACL|Incorporate Universal Lexical Representation (ULR, maps word from its own embedding to an univseral embedding, which in this case, is based on En) and Mixure of Language Experts into multilingual translation for low resource languages.|
 |[Improving Lexical Choice in Neural Machine Translation](https://aclanthology.org/N18-1031.pdf)|Paper|ACL|Propose methods to regularize the embedding output to be less biased on frequent words and use lexical module to make model less focused on context but on direct translation.|
-|[Iterative Back-Translation for Neural Machine Translation](https://aclanthology.org/W18-2703.pdf)|ACL-WMT|Iterative backtranslation for high and low resource language gain improvement|
+|[Iterative Back-Translation for Neural Machine Translation](https://aclanthology.org/W18-2703.pdf)|Paper|ACL-WMT|Iterative backtranslation for high and low resource language gain improvement|
+|[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)|Paper|ACL|BART paper. pretrain denoising encoder-decoder and finetuned with additional encoder to replace encoder embedding in translation task.|
+|[Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/pdf/2001.08210.pdf)|Paper|ACL|mBART, important baseline for multilingual noisy (low resource) translation|
+|[Low-Resource Corpus Filtering using Multilingual Sentence Embeddings](https://arxiv.org/pdf/1906.08885.pdf)|Paper|WMT|System paper for wmt parallel corpus filtering, using margin based score and dual conditional cross-entropy.|
+|[Findings of the WMT 2019 Shared Task on Parallel Corpus Filtering for Low-Resource Conditions](https://aclanthology.org/W19-5404.pdf)|Paper|WMT|Summary paper for parallel corpus filtering approach 2019, including LASER and dual xent|
+|[Findings of the WMT 2020 Shared Task on Parallel Corpus Filtering and Alignment](https://aclanthology.org/2020.wmt-1.78.pdf)|Paper|WMT|Summary paper for parallel corpus filtering approach 2020, larger pretrained models were used|
+|[Filtering Noisy Parallel Corpus using Transformers with Proxy Task Learning](https://aclanthology.org/2020.wmt-1.105.pdf)|Paper|WMT2020|System paper of Huawei. Details of training classifier to distinguish clean and noisy data for Khmer and Pashto data.|
+|[Margin-based Parallel Corpus Mining with Multilingual Sentence Embeddings](https://arxiv.org/pdf/1811.01136.pdf)|Paper|ACL|proposed margin based score for bitext mining|
+|[Cross-lingual Retrieval for Iterative Self-Supervised Training](https://arxiv.org/pdf/2006.09526.pdf)|Paper|NIPS|proposed CRISS approach to iteratively mine and train mBART. Mining is based on margin-based scoring and sentence representation is achieved with mBART.|
+|[Unsupervised Bitext Mining and Translation via Self-Trained Contextual Embeddings](https://arxiv.org/pdf/2010.07761.pdf)|Paper|TACL|iteratively use mBERT to provide contextual embedding and classify pseudo sentence-pairs as positive (parallel) or negative. Then use the trained classifier to mine bitext.|
 
 
 
