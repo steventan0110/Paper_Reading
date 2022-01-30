@@ -10,6 +10,8 @@
 |[Word Embedding Transformation for Robust Unsupervised Bilingual Lexicon Induction](https://arxiv.org/pdf/2105.12297.pdf)|Paper|ArXiv|Modify the SVD decomposition solution for Procrustes problem using orthogonal rotation matrix and cross-lingual scaling to resulted embedding|
 |[A Simple and Effective Approach to Robust Unsupervised Bilingual Dictionary Induction](https://aclanthology.org/2020.coling-main.526.pdf)|Paper|COLING2020|Domain Adaptation applied (Use PCA before each init step of VecMap) to get more robustness BLI result, especially on low resource datasets.|
 |[Bilingual Lexicon Induction through Unsupervised Machine Translation](https://arxiv.org/pdf/1907.10761.pdf)|Paper|ACL2019| Build unsupervised  MT systems with fastText, VecMap, and phrase-based n-gram table. Then create synthetic parallel data and retrieve new dictionary from there.|
+|[An Effective Approach to Unsupervised Machine Translation](https://aclanthology.org/P19-1019.pdf)|Paper|ACL2019|Build on previous SMT-based unsupervised MT system with cyclic loss, dual system, as well as length penalty.|
+|[When Does Unsupervised Machine Translation Work?](https://arxiv.org/pdf/2004.05516.pdf)|Paper|WMT2020|Evaluate Artetxe's unsupervised SMT+NMT system for schemes including dissimilar languages, dissimilar source and target domains, diverse datasets, and authentic low-resource language pairs?
 
 
 
