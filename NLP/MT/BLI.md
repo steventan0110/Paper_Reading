@@ -19,9 +19,9 @@
 |[Knowledge Distillation for Bilingual Dictionary Induction](https://aclanthology.org/D17-1264.pdf)|Paper|EMNLP2017|Apply Knowledge distillation on BLI task with pivot language|
 |[UNSUPERVISED HYPERALIGNMENT FOR MULTILINGUAL WORD EMBEDDINGS](https://arxiv.org/pdf/1811.01124.pdf)|Paper|ICLR2019|Add hyperalignment supervision. Instead of constraining the mappings directly, their formulation constrains every pair of vectors so that they are aligned well|
 |[Unsupervised Multilingual Alignment using Wasserstein Barycenter](https://arxiv.org/pdf/2002.00743.pdf)|Paper|IJCAI2020|Use Wasserstein barycenter to determine the pivot language|
-|[Supervised and Nonlinear Alignment of Two Embedding Spaces for Dictionary Induction in Low Resourced Languages](https://aclanthology.org/D19-1076.pdf)|Paper|EMNLP2019|Use a noise tolerant piecewise
-linear technique to learn a non-linear mapping between two monolingual word embedding vector spaces. (Supervised approach on BLI)|
+|[Supervised and Nonlinear Alignment of Two Embedding Spaces for Dictionary Induction in Low Resourced Languages](https://aclanthology.org/D19-1076.pdf)|Paper|EMNLP2019|Use a noise tolerant piecewise linear technique to learn a non-linear mapping between two monolingual word embedding vector spaces. (Supervised approach on BLI)|
 |[How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions](https://arxiv.org/pdf/1902.00508.pdf)|Paper|ACL2019|Evaluation analysis of BLI for downstream tasks such as NLI, Document classification, information retrieval|
+|[Combining Static Word Embeddings and Contextual Representations for Bilingual Lexicon Induction](https://arxiv.org/pdf/2106.03084.pdf)|Paper|ACL2021|Use Static and Contextual embedding together as unified word representation for BLI.|
 
 
 
