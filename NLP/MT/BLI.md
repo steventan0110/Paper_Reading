@@ -12,6 +12,16 @@
 |[Bilingual Lexicon Induction through Unsupervised Machine Translation](https://arxiv.org/pdf/1907.10761.pdf)|Paper|ACL2019| Build unsupervised  MT systems with fastText, VecMap, and phrase-based n-gram table. Then create synthetic parallel data and retrieve new dictionary from there.|
 |[An Effective Approach to Unsupervised Machine Translation](https://aclanthology.org/P19-1019.pdf)|Paper|ACL2019|Build on previous SMT-based unsupervised MT system with cyclic loss, dual system, as well as length penalty.|
 |[When Does Unsupervised Machine Translation Work?](https://arxiv.org/pdf/2004.05516.pdf)|Paper|WMT2020|Evaluate Artetxe's unsupervised SMT+NMT system for schemes including dissimilar languages, dissimilar source and target domains, diverse datasets, and authentic low-resource language pairs?
+|[Are All Good Word Vector Spaces Isomorphic?](https://aclanthology.org/2020.emnlp-main.257.pdf)|Paper|EMNLP 2020|Near-isomorphism arises only with sufficient amounts of training. Quantify isomorphism with Eigenvector similarity, GH distance, and Relational similarity. Modify training data to simulate low-resource condition.|
+|[Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation](https://aclanthology.org/2021.naacl-main.16.pdf)|Paper|NAACL2021|Use pretrained VecMap BLI to init MLM training for unsupervised MT and achive state of the art on Mk, Sq languages.|
+|[Leveraging Vector Space Similarity for Learning Cross-Lingual Word Embeddings: A Systematic Review](https://www.mdpi.com/2673-6470/1/3/11/htm)|Paper|MDPI|Review paper|
+|[Unsupervised Multilingual Word Embeddings](https://arxiv.org/pdf/1808.08933.pdf)|Paper|EMNLP2018|Multilingual Adversarial Training to map two language embeddings into the same space|
+|[Knowledge Distillation for Bilingual Dictionary Induction](https://aclanthology.org/D17-1264.pdf)|Paper|EMNLP2017|Apply Knowledge distillation on BLI task with pivot language|
+|[UNSUPERVISED HYPERALIGNMENT FOR MULTILINGUAL WORD EMBEDDINGS](https://arxiv.org/pdf/1811.01124.pdf)|Paper|ICLR2019|Add hyperalignment supervision. Instead of constraining the mappings directly, their formulation constrains every pair of vectors so that they are aligned well|
+|[Unsupervised Multilingual Alignment using Wasserstein Barycenter](https://arxiv.org/pdf/2002.00743.pdf)|Paper|IJCAI2020|Use Wasserstein barycenter to determine the pivot language|
+|[Supervised and Nonlinear Alignment of Two Embedding Spaces for Dictionary Induction in Low Resourced Languages](https://aclanthology.org/D19-1076.pdf)|Paper|EMNLP2019|Use a noise tolerant piecewise
+linear technique to learn a non-linear mapping between two monolingual word embedding vector spaces. (Supervised approach on BLI)|
+|[How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions](https://arxiv.org/pdf/1902.00508.pdf)|Paper|ACL2019|Evaluation analysis of BLI for downstream tasks such as NLI, Document classification, information retrieval|
 
 
 
